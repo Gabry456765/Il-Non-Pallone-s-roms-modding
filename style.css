@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mongolian&display=swap');
+body{
+    background-color: rgb(100, 100, 100);
+    align-items: center;
+}
+.tit{
+    text-align: center;
+    font-family: 'Noto Sans Mongolian', sans-serif;
+    color: blanchedalmond ;
+}
+.tio{
+    text-align: center;
+}
+.bt{
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+}
+.img{
+    border-radius: 20px;
+    max-width: 400px; /* Larghezza massima */
+    max-height: 889px; /* Altezza massima */
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.btn{
+margin-top: 10px;
+}
